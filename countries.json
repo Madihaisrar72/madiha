@@ -4,209 +4,356 @@
     "name": "Pakistan",
     "capital": "Islamabad",
     "picture": "https://flagcdn.com/w320/pk.png",
-    "history": "Pakistan gained independence on August 14, 1947, following the partition of British India as a sovereign nation for Muslims. It became the world's first Islamic republic in 1956."
+    "history": "Pakistan gained independence on August 14, 1947, as a sovereign nation for Muslims in South Asia."
   },
   {
     "id": 2,
     "name": "Turkey",
     "capital": "Ankara",
     "picture": "https://flagcdn.com/w320/tr.png",
-    "history": "Turkey was founded in 1923 by Mustafa Kemal Atatürk following the fall of the Ottoman Empire after World War I. It serves as a historic bridge connecting Asia and Europe."
+    "history": "Turkey was founded in 1923 following the fall of the Ottoman Empire, bridging Europe and Asia."
   },
   {
     "id": 3,
     "name": "Saudi Arabia",
     "capital": "Riyadh",
     "picture": "https://flagcdn.com/w320/sa.png",
-    "history": "Unified in 1932 by Ibn Saud, the Kingdom of Saudi Arabia encompasses the birthplace of Islam. The discovery of vast petroleum reserves transformed it into a global economic power."
+    "history": "Unified in 1932, Saudi Arabia is the birthplace of Islam and a major global economic energy center."
   },
   {
     "id": 4,
-    "name": "China",
-    "capital": "Beijing",
-    "picture": "https://flagcdn.com/w320/cn.png",
-    "history": "China is one of the world's oldest continuous civilizations with thousands of years of dynastic rule. The People's Republic of China was established in 1949 under Mao Zedong."
-  },
-  {
-    "id": 5,
     "name": "United States",
     "capital": "Washington, D.C.",
     "picture": "https://flagcdn.com/w320/us.png",
-    "history": "The US declared independence from British rule on July 4, 1776, following the Revolutionary War. Over the 20th century, it expanded rapidly to become a global economic and military superpower."
+    "history": "The US declared independence in 1776 and grew into a major global superpower."
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "United Kingdom",
     "capital": "London",
     "picture": "https://flagcdn.com/w320/gb.png",
-    "history": "The UK spearheaded the global Industrial Revolution in the 18th century and created the largest empire in human history. Today, it remains a major global political and economic center."
+    "history": "The UK spearheaded the Industrial Revolution and shaped modern global political and economic systems."
+  },
+  {
+    "id": 6,
+    "name": "Canada",
+    "capital": "Ottawa",
+    "picture": "https://flagcdn.com/w320/ca.png",
+    "history": "Canada confederated in 1867 and developed into a peaceful, multicultural North American nation."
   },
   {
     "id": 7,
-    "name": "Japan",
-    "capital": "Tokyo",
-    "picture": "https://flagcdn.com/w320/jp.png",
-    "history": "Japan rapidly modernized during the Meiji Restoration in 1868 after centuries of feudal isolation. Despite heavy destruction in World War II, it transformed into an advanced technological pioneer."
+    "name": "Australia",
+    "capital": "Canberra",
+    "picture": "https://flagcdn.com/w320/au.png",
+    "history": "Australia federated in 1901, evolving from indigenous roots and British colonies into an advanced economy."
   },
   {
     "id": 8,
     "name": "Germany",
     "capital": "Berlin",
     "picture": "https://flagcdn.com/w320/de.png",
-    "history": "Germany was first unified as a modern nation-state in 1871 under Bismarck. Following its division after World War II, the nation celebrated peaceful reunification in 1990 after the Berlin Wall fell."
+    "history": "Germany unified in 1871, experienced post-war division, and reunited peacefully in 1990."
   },
   {
     "id": 9,
     "name": "France",
     "capital": "Paris",
     "picture": "https://flagcdn.com/w320/fr.png",
-    "history": "The French Revolution of 1789 permanently dismantled the monarchy and established democratic republic ideals. France played a central role in shaping Western art, philosophy, and global politics."
+    "history": "The French Revolution of 1789 established core democratic principles shaping Western philosophy."
   },
   {
     "id": 10,
-    "name": "Egypt",
-    "capital": "Cairo",
-    "picture": "https://flagcdn.com/w320/eg.png",
-    "history": "Home to ancient pharaohs and iconic pyramids, Egypt features one of humanity's earliest recorded histories. Modern Egypt declared independence from British control in 1922."
+    "name": "Japan",
+    "capital": "Tokyo",
+    "picture": "https://flagcdn.com/w320/jp.png",
+    "history": "Japan modernized rapidly during the Meiji Restoration and transformed into a technological leader."
   },
   {
     "id": 11,
-    "name": "Malaysia",
-    "capital": "Kuala Lumpur",
-    "picture": "https://flagcdn.com/w320/my.png",
-    "history": "Gaining independence from British rule in 1957 as Malaya, it expanded to form Malaysia in 1963. It rapidly developed from a rubber and tin exporter into a modern industrial economy."
+    "name": "China",
+    "capital": "Beijing",
+    "picture": "https://flagcdn.com/w320/cn.png",
+    "history": "China features one of the world's oldest continuous civilizations with rich dynastic heritage."
   },
   {
     "id": 12,
-    "name": "United Arab Emirates",
-    "capital": "Abu Dhabi",
-    "picture": "https://flagcdn.com/w320/ae.png",
-    "history": "The UAE was formed in 1971 as a federation of seven emirates following the departure of the British. Oil wealth allowed it to quickly evolve into a premier modern hub for global trade and innovation."
+    "name": "India",
+    "capital": "New Delhi",
+    "picture": "https://flagcdn.com/w320/in.png",
+    "history": "India gained independence in 1947 and stands as the world's largest democratic republic."
   },
   {
     "id": 13,
-    "name": "Canada",
-    "capital": "Ottawa",
-    "picture": "https://flagcdn.com/w320/ca.png",
-    "history": "Originally inhabited by Indigenous nations and colonized by French and British forces, Canada was confederated in 1867. It achieved full legislative independence from Britain in 1982."
-  },
-  {
-    "id": 14,
-    "name": "Australia",
-    "capital": "Canberra",
-    "picture": "https://flagcdn.com/w320/au.png",
-    "history": "Inhabited by First Nations peoples for over 65,000 years, Australia became a British penal colony in 1788. The six self-governing colonies federated to form the Commonwealth of Australia in 1901."
-  },
-  {
-    "id": 15,
-    "name": "Brazil",
-    "capital": "Brasília",
-    "picture": "https://flagcdn.com/w320/br.png",
-    "history": "Colonized by Portugal in 1500, Brazil declared independence in 1822 and functioned as an empire before becoming a republic in 1889. It is South America's largest nation in both area and population."
-  },
-  {
-    "id": 16,
     "name": "Italy",
     "capital": "Rome",
     "picture": "https://flagcdn.com/w320/it.png",
-    "history": "Heartland of the ancient Roman Empire and birth site of the Renaissance, Italy was unified into a single kingdom in 1861. It abolished the monarchy to become a democratic republic in 1946."
+    "history": "Heartland of the Roman Empire and the Renaissance, Italy unified into a modern kingdom in 1861."
   },
   {
-    "id": 17,
-    "name": "Iran",
-    "capital": "Tehran",
-    "picture": "https://flagcdn.com/w320/ir.png",
-    "history": "Historically known as Persia, Iran holds a rich heritage dating back to the ancient Achaemenid Empire. The 1979 Islamic Revolution overthrew the monarchy to form an Islamic Republic."
+    "id": 14,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "picture": "https://flagcdn.com/w320/br.png",
+    "history": "Colonized by Portugal, Brazil gained independence in 1822 and is South America's largest nation."
   },
   {
-    "id": 18,
-    "name": "Indonesia",
-    "capital": "Jakarta",
-    "picture": "https://flagcdn.com/w320/id.png",
-    "history": "Comprising thousands of volcanic islands, Indonesia declared independence from Dutch colonial rule in 1945. It is the world's largest archipelago state and most populous Muslim-majority country."
-  },
-  {
-    "id": 19,
+    "id": 15,
     "name": "South Korea",
     "capital": "Seoul",
     "picture": "https://flagcdn.com/w320/kr.png",
-    "history": "Following division at the end of World War II and the Korean War in 1953, South Korea rebuilt rapidly. It grew from a devastated agricultural country into a technological global powerhouse."
+    "history": "Following the Korean War, South Korea rebuilt rapidly into a global economic and cultural powerhouse."
   },
   {
-    "id": 20,
-    "name": "Spain",
-    "capital": "Madrid",
-    "picture": "https://flagcdn.com/w320/es.png",
-    "history": "Unified in the late 15th century under King Ferdinand and Queen Isabella, Spain established a vast global empire. It transitioned successfully to a parliamentary constitutional monarchy in 1978."
+    "id": 16,
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "picture": "https://flagcdn.com/w320/my.png",
+    "history": "Gaining independence in 1957, Malaysia evolved into a thriving modern Southeast Asian economy."
   },
   {
-    "id": 21,
-    "name": "Russia",
-    "capital": "Moscow",
-    "picture": "https://flagcdn.com/w320/ru.png",
-    "history": "Expanding from a medieval principality into a massive Tsarist empire, Russia underwent a socialist revolution in 1917. It served as the core of the Soviet Union until its dissolution in 1991."
+    "id": 17,
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "picture": "https://flagcdn.com/w320/ae.png",
+    "history": "The UAE formed as a federation in 1971, transforming its economy through trade and innovation."
   },
   {
-    "id": 22,
+    "id": 18,
+    "name": "Egypt",
+    "capital": "Cairo",
+    "picture": "https://flagcdn.com/w320/eg.png",
+    "history": "Home to ancient pharaohs, Egypt holds one of the earliest recorded histories in human civilization."
+  },
+  {
+    "id": 19,
     "name": "South Africa",
     "capital": "Pretoria",
     "picture": "https://flagcdn.com/w320/za.png",
-    "history": "Shaped by Dutch and British colonization, South Africa endured decades under the racial segregation system of Apartheid. It held its first fully democratic multiracial elections in 1994 led by Nelson Mandela."
+    "history": "Overcoming Apartheid through historic democratic elections in 1994, South Africa promotes unity."
+  },
+  {
+    "id": 20,
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "picture": "https://flagcdn.com/w320/id.png",
+    "history": "An archipelago state that declared independence in 1945, forming a major Southeast Asian republic."
+  },
+  {
+    "id": 21,
+    "name": "Spain",
+    "capital": "Madrid",
+    "picture": "https://flagcdn.com/w320/es.png",
+    "history": "Unified in the 15th century, Spain established a global empire before transitioning to a monarchy."
+  },
+  {
+    "id": 22,
+    "name": "Russia",
+    "capital": "Moscow",
+    "picture": "https://flagcdn.com/w320/ru.png",
+    "history": "Expanding from a medieval state, Russia served as the core of the Soviet Union until 1991."
   },
   {
     "id": 23,
     "name": "Qatar",
     "capital": "Doha",
     "picture": "https://flagcdn.com/w320/qa.png",
-    "history": "Formerly a British protectorate reliant on pearling and fishing, Qatar gained independence in 1971. Massive natural gas reserves propelled it into one of the highest income per capita nations."
+    "history": "Gaining independence in 1971, Qatar became a prominent global financial and diplomatic hub."
   },
   {
     "id": 24,
-    "name": "Palestine",
-    "capital": "Jerusalem",
-    "picture": "https://flagcdn.com/w320/ps.png",
-    "history": "Situated at the historical crossroads of the Mediterranean and Middle East, Palestine holds profound religious significance for Islam, Christianity, and Judaism. The PLO declared statehood in 1988."
-  },
-  {
-    "id": 25,
-    "name": "Azerbaijan",
-    "capital": "Baku",
-    "picture": "https://flagcdn.com/w320/az.png",
-    "history": "Established as the first secular democratic republic in the Muslim world in 1918, Azerbaijan was incorporated into the Soviet Union in 1920. It regained national sovereignty in 1991."
-  },
-  {
-    "id": 26,
     "name": "Bangladesh",
     "capital": "Dhaka",
     "picture": "https://flagcdn.com/w320/bd.png",
-    "history": "Formerly known as East Pakistan, Bangladesh secured independence in 1971 following the Liberation War. Today, it stands as one of the world's major textile manufacturing hubs."
+    "history": "Securing independence in 1971, Bangladesh developed into a major textile manufacturing center."
   },
   {
-    "id": 27,
+    "id": 25,
     "name": "Switzerland",
     "capital": "Bern",
     "picture": "https://flagcdn.com/w320/ch.png",
-    "history": "Originating from a defense alliance in 1291, Switzerland formalized its permanent armed neutrality policy in 1815. It is celebrated for its direct democracy, banking sector, and stability."
+    "history": "Famous for permanent neutrality and direct democracy, Switzerland ensures long-standing stability."
   },
   {
-    "id": 28,
+    "id": 26,
     "name": "Singapore",
     "capital": "Singapore",
     "picture": "https://flagcdn.com/w320/sg.png",
-    "history": "Founded as a British trading post by Stamford Raffles in 1819, Singapore gained independence in 1965 after separating from Malaysia. It transformed into a dominant global financial hub."
+    "history": "Founded as a trading post, Singapore gained independence in 1965 and grew into a financial giant."
+  },
+  {
+    "id": 27,
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "picture": "https://flagcdn.com/w320/se.png",
+    "history": "A Nordic nation known for its neutrality, innovation, and strong welfare state model."
+  },
+  {
+    "id": 28,
+    "name": "Norway",
+    "capital": "Oslo",
+    "picture": "https://flagcdn.com/w320/no.png",
+    "history": "Independent since 1905, Norway leveraged its natural resources to build a prosperous society."
   },
   {
     "id": 29,
-    "name": "Iraq",
-    "capital": "Baghdad",
-    "picture": "https://flagcdn.com/w320/iq.png",
-    "history": "Known historically as Mesopotamia, the region is recognized as the cradle of human civilization where writing was invented. Iraq gained independence from British mandate control in 1932."
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "picture": "https://flagcdn.com/w320/nl.png",
+    "history": "Renowned for maritime history, global trade leadership, and progressive civic engineering."
   },
   {
     "id": 30,
-    "name": "Oman",
-    "capital": "Muscat",
-    "picture": "https://flagcdn.com/w320/om.png",
-    "history": "Oman holds a rich maritime history and once maintained a powerful empire stretching across the Persian Gulf and East Africa. It is the oldest continuously independent state in the Arab world."
+    "name": "Belgium",
+    "capital": "Brussels",
+    "picture": "https://flagcdn.com/w320/be.png",
+    "history": "Gaining independence in 1830, Belgium serves as the administrative capital of the European Union."
+  },
+  {
+    "id": 31,
+    "name": "Austria",
+    "capital": "Vienna",
+    "picture": "https://flagcdn.com/w320/at.png",
+    "history": "Once center of the Habsburg Empire, modern Austria is renowned for classical music and culture."
+  },
+  {
+    "id": 32,
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "picture": "https://flagcdn.com/w320/nz.png",
+    "history": "Shaped by Polynesian and British heritage, New Zealand is celebrated for scenic landscapes."
+  },
+  {
+    "id": 33,
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "picture": "https://flagcdn.com/w320/ar.png",
+    "history": "Gaining independence in 1816, Argentina is culturally vibrant and rich in agricultural heritage."
+  },
+  {
+    "id": 34,
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "picture": "https://flagcdn.com/w320/mx.png",
+    "history": "Home to ancient Mesoamerican civilizations, Mexico achieved independence from Spain in 1821."
+  },
+  {
+    "id": 35,
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "picture": "https://flagcdn.com/w320/th.png",
+    "history": "The only Southeast Asian nation to avoid European colonization, maintaining a proud royal heritage."
+  },
+  {
+    "id": 36,
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "picture": "https://flagcdn.com/w320/vn.png",
+    "history": "Vietnam unified in 1976 after a complex history of struggle and emerged as a dynamic economy."
+  },
+  {
+    "id": 37,
+    "name": "Philippines",
+    "capital": "Manila",
+    "picture": "https://flagcdn.com/w320/ph.png",
+    "history": "An archipelago influenced by Spanish and American colonization, gaining full sovereignty in 1946."
+  },
+  {
+    "id": 38,
+    "name": "Greece",
+    "capital": "Athens",
+    "picture": "https://flagcdn.com/w320/gr.png",
+    "history": "Widely acknowledged as the birthplace of Western civilization, democracy, and philosophy."
+  },
+  {
+    "id": 39,
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "picture": "https://flagcdn.com/w320/pt.png",
+    "history": "Pioneered global maritime exploration during the Age of Discovery in the 15th and 16th centuries."
+  },
+  {
+    "id": 40,
+    "name": "Poland",
+    "capital": "Warsaw",
+    "picture": "https://flagcdn.com/w320/pl.png",
+    "history": "Possessing a resilient history through European conflicts, Poland regained full democracy in 1989."
+  },
+  {
+    "id": 41,
+    "name": "Ireland",
+    "capital": "Dublin",
+    "picture": "https://flagcdn.com/w320/ie.png",
+    "history": "The Republic of Ireland secured independence from the UK in 1922, developing a robust tech economy."
+  },
+  {
+    "id": 42,
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "picture": "https://flagcdn.com/w320/dk.png",
+    "history": "A Scandinavian constitutional monarchy with ancient Viking roots and modern social welfare."
+  },
+  {
+    "id": 43,
+    "name": "Finland",
+    "capital": "Helsinki",
+    "picture": "https://flagcdn.com/w320/fi.png",
+    "history": "Gaining independence from Russia in 1917, Finland excel in education and technological innovation."
+  },
+  {
+    "id": 44,
+    "name": "Hungary",
+    "capital": "Budapest",
+    "picture": "https://flagcdn.com/w320/hu.png",
+    "history": "Centuries-old Central European nation with a distinct Magyar culture and rich architecture."
+  },
+  {
+    "id": 45,
+    "name": "Czech Republic",
+    "capital": "Prague",
+    "picture": "https://flagcdn.com/w320/cz.png",
+    "history": "Emerging from the Velvet Divorce in 1993, the Czech Republic stands as a stable European democracy."
+  },
+  {
+    "id": 46,
+    "name": "Romania",
+    "capital": "Bucharest",
+    "picture": "https://flagcdn.com/w320/ro.png",
+    "history": "Situated at the crossroads of Central and Southeastern Europe with Roman heritage roots."
+  },
+  {
+    "id": 47,
+    "name": "Chile",
+    "capital": "Santiago",
+    "picture": "https://flagcdn.com/w320/cl.png",
+    "history": "Stretching along South America's western edge, Chile achieved independence in 1818."
+  },
+  {
+    "id": 48,
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "picture": "https://flagcdn.com/w320/co.png",
+    "history": "Named after Christopher Columbus, Colombia won independence from Spain under Simón Bolívar in 1819."
+  },
+  {
+    "id": 49,
+    "name": "Morocco",
+    "capital": "Rabat",
+    "picture": "https://flagcdn.com/w320/ma.png",
+    "history": "A North African kingdom bridging Africa, the Mediterranean, and the Arab world with ancient history."
+  },
+  {
+    "id": 50,
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "picture": "https://flagcdn.com/w320/ke.png",
+    "history": "A major East African nation that gained independence in 1963, known for its rich wildlife heritage."
+  },
+  {
+    "id": 51,
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "picture": "https://flagcdn.com/w320/ng.png",
+    "history": "Africa's most populous nation, gaining independence from Britain in 1960 with a vibrant cultural economy."
   }
 ]
