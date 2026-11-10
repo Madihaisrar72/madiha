@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "picture": "https://flagcdn.com/w320/pk.png",
+    "history": "Pakistan gained independence on August 14, 1947, following the partition of British India as a sovereign nation for Muslims. It became the world's first Islamic republic in 1956."
+  },
+  {
+    "id": 2,
+    "name": "Turkey",
+    "capital": "Ankara",
+    "picture": "https://flagcdn.com/w320/tr.png",
+    "history": "Turkey was founded in 1923 by Mustafa Kemal Atatürk following the fall of the Ottoman Empire after World War I. It serves as a historic bridge connecting Asia and Europe."
+  },
+  {
+    "id": 3,
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "picture": "https://flagcdn.com/w320/sa.png",
+    "history": "Unified in 1932 by Ibn Saud, the Kingdom of Saudi Arabia encompasses the birthplace of Islam. The discovery of vast petroleum reserves transformed it into a global economic power."
+  },
+  {
+    "id": 4,
+    "name": "China",
+    "capital": "Beijing",
+    "picture": "https://flagcdn.com/w320/cn.png",
+    "history": "China is one of the world's oldest continuous civilizations with thousands of years of dynastic rule. The People's Republic of China was established in 1949 under Mao Zedong."
+  },
+  {
+    "id": 5,
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "picture": "https://flagcdn.com/w320/us.png",
+    "history": "The US declared independence from British rule on July 4, 1776, following the Revolutionary War. Over the 20th century, it expanded rapidly to become a global economic and military superpower."
+  },
+  {
+    "id": 6,
+    "name": "United Kingdom",
+    "capital": "London",
+    "picture": "https://flagcdn.com/w320/gb.png",
+    "history": "The UK spearheaded the global Industrial Revolution in the 18th century and created the largest empire in human history. Today, it remains a major global political and economic center."
+  },
+  {
+    "id": 7,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "picture": "https://flagcdn.com/w320/jp.png",
+    "history": "Japan rapidly modernized during the Meiji Restoration in 1868 after centuries of feudal isolation. Despite heavy destruction in World War II, it transformed into an advanced technological pioneer."
+  },
+  {
+    "id": 8,
+    "name": "Germany",
+    "capital": "Berlin",
+    "picture": "https://flagcdn.com/w320/de.png",
+    "history": "Germany was first unified as a modern nation-state in 1871 under Bismarck. Following its division after World War II, the nation celebrated peaceful reunification in 1990 after the Berlin Wall fell."
+  },
+  {
+    "id": 9,
+    "name": "France",
+    "capital": "Paris",
+    "picture": "https://flagcdn.com/w320/fr.png",
+    "history": "The French Revolution of 1789 permanently dismantled the monarchy and established democratic republic ideals. France played a central role in shaping Western art, philosophy, and global politics."
+  },
+  {
+    "id": 10,
+    "name": "Egypt",
+    "capital": "Cairo",
+    "picture": "https://flagcdn.com/w320/eg.png",
+    "history": "Home to ancient pharaohs and iconic pyramids, Egypt features one of humanity's earliest recorded histories. Modern Egypt declared independence from British control in 1922."
+  },
+  {
+    "id": 11,
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "picture": "https://flagcdn.com/w320/my.png",
+    "history": "Gaining independence from British rule in 1957 as Malaya, it expanded to form Malaysia in 1963. It rapidly developed from a rubber and tin exporter into a modern industrial economy."
+  },
+  {
+    "id": 12,
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "picture": "https://flagcdn.com/w320/ae.png",
+    "history": "The UAE was formed in 1971 as a federation of seven emirates following the departure of the British. Oil wealth allowed it to quickly evolve into a premier modern hub for global trade and innovation."
+  },
+  {
+    "id": 13,
+    "name": "Canada",
+    "capital": "Ottawa",
+    "picture": "https://flagcdn.com/w320/ca.png",
+    "history": "Originally inhabited by Indigenous nations and colonized by French and British forces, Canada was confederated in 1867. It achieved full legislative independence from Britain in 1982."
+  },
+  {
+    "id": 14,
+    "name": "Australia",
+    "capital": "Canberra",
+    "picture": "https://flagcdn.com/w320/au.png",
+    "history": "Inhabited by First Nations peoples for over 65,000 years, Australia became a British penal colony in 1788. The six self-governing colonies federated to form the Commonwealth of Australia in 1901."
+  },
+  {
+    "id": 15,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "picture": "https://flagcdn.com/w320/br.png",
+    "history": "Colonized by Portugal in 1500, Brazil declared independence in 1822 and functioned as an empire before becoming a republic in 1889. It is South America's largest nation in both area and population."
+  },
+  {
+    "id": 16,
+    "name": "Italy",
+    "capital": "Rome",
+    "picture": "https://flagcdn.com/w320/it.png",
+    "history": "Heartland of the ancient Roman Empire and birth site of the Renaissance, Italy was unified into a single kingdom in 1861. It abolished the monarchy to become a democratic republic in 1946."
+  },
+  {
+    "id": 17,
+    "name": "Iran",
+    "capital": "Tehran",
+    "picture": "https://flagcdn.com/w320/ir.png",
+    "history": "Historically known as Persia, Iran holds a rich heritage dating back to the ancient Achaemenid Empire. The 1979 Islamic Revolution overthrew the monarchy to form an Islamic Republic."
+  },
+  {
+    "id": 18,
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "picture": "https://flagcdn.com/w320/id.png",
+    "history": "Comprising thousands of volcanic islands, Indonesia declared independence from Dutch colonial rule in 1945. It is the world's largest archipelago state and most populous Muslim-majority country."
+  },
+  {
+    "id": 19,
+    "name": "South Korea",
+    "capital": "Seoul",
+    "picture": "https://flagcdn.com/w320/kr.png",
+    "history": "Following division at the end of World War II and the Korean War in 1953, South Korea rebuilt rapidly. It grew from a devastated agricultural country into a technological global powerhouse."
+  },
+  {
+    "id": 20,
+    "name": "Spain",
+    "capital": "Madrid",
+    "picture": "https://flagcdn.com/w320/es.png",
+    "history": "Unified in the late 15th century under King Ferdinand and Queen Isabella, Spain established a vast global empire. It transitioned successfully to a parliamentary constitutional monarchy in 1978."
+  },
+  {
+    "id": 21,
+    "name": "Russia",
+    "capital": "Moscow",
+    "picture": "https://flagcdn.com/w320/ru.png",
+    "history": "Expanding from a medieval principality into a massive Tsarist empire, Russia underwent a socialist revolution in 1917. It served as the core of the Soviet Union until its dissolution in 1991."
+  },
+  {
+    "id": 22,
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "picture": "https://flagcdn.com/w320/za.png",
+    "history": "Shaped by Dutch and British colonization, South Africa endured decades under the racial segregation system of Apartheid. It held its first fully democratic multiracial elections in 1994 led by Nelson Mandela."
+  },
+  {
+    "id": 23,
+    "name": "Qatar",
+    "capital": "Doha",
+    "picture": "https://flagcdn.com/w320/qa.png",
+    "history": "Formerly a British protectorate reliant on pearling and fishing, Qatar gained independence in 1971. Massive natural gas reserves propelled it into one of the highest income per capita nations."
+  },
+  {
+    "id": 24,
+    "name": "Palestine",
+    "capital": "Jerusalem",
+    "picture": "https://flagcdn.com/w320/ps.png",
+    "history": "Situated at the historical crossroads of the Mediterranean and Middle East, Palestine holds profound religious significance for Islam, Christianity, and Judaism. The PLO declared statehood in 1988."
+  },
+  {
+    "id": 25,
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "picture": "https://flagcdn.com/w320/az.png",
+    "history": "Established as the first secular democratic republic in the Muslim world in 1918, Azerbaijan was incorporated into the Soviet Union in 1920. It regained national sovereignty in 1991."
+  },
+  {
+    "id": 26,
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "picture": "https://flagcdn.com/w320/bd.png",
+    "history": "Formerly known as East Pakistan, Bangladesh secured independence in 1971 following the Liberation War. Today, it stands as one of the world's major textile manufacturing hubs."
+  },
+  {
+    "id": 27,
+    "name": "Switzerland",
+    "capital": "Bern",
+    "picture": "https://flagcdn.com/w320/ch.png",
+    "history": "Originating from a defense alliance in 1291, Switzerland formalized its permanent armed neutrality policy in 1815. It is celebrated for its direct democracy, banking sector, and stability."
+  },
+  {
+    "id": 28,
+    "name": "Singapore",
+    "capital": "Singapore",
+    "picture": "https://flagcdn.com/w320/sg.png",
+    "history": "Founded as a British trading post by Stamford Raffles in 1819, Singapore gained independence in 1965 after separating from Malaysia. It transformed into a dominant global financial hub."
+  },
+  {
+    "id": 29,
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "picture": "https://flagcdn.com/w320/iq.png",
+    "history": "Known historically as Mesopotamia, the region is recognized as the cradle of human civilization where writing was invented. Iraq gained independence from British mandate control in 1932."
+  },
+  {
+    "id": 30,
+    "name": "Oman",
+    "capital": "Muscat",
+    "picture": "https://flagcdn.com/w320/om.png",
+    "history": "Oman holds a rich maritime history and once maintained a powerful empire stretching across the Persian Gulf and East Africa. It is the oldest continuously independent state in the Arab world."
+  }
+]
